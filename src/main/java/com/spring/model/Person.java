@@ -29,6 +29,4 @@ public class Person {
     private double salary;
 
 
-    public void setImagePath(String imagePath) {
-    }
 }
